@@ -4,7 +4,7 @@
 
 #### Problem: 
 
-As a 4 four years azurlane commander(player) and a game lover, I want to figure out whether the characters images are similar in same faction or types and different from other factions and types. If there are some relationship, it may help the game company when designing characters. 
+As a 4 four years Azur Lane commander(player) and a game lover, I want to figure out whether the characters' images are similar in the same faction or types and different from other factions and types. If there is some relationship, it may help the game company when designing characters.
 
 #### AzurLane Introduction (from wikipedia):
 
@@ -42,7 +42,7 @@ umap:
 
 No difference between each faction or ship type in the first scatter plot.
 
-However, scatter plots shows that hair and clothes play an important role. The x-axis seems to be hair color, and the y-axis seems to be the clothes' color.
+However, scatter plots shows that hair and clothes play an important role. The x-axis seems to be hair color, and the y-axis seems to be clothes' color.
 
 #### Future Improvement:
 
